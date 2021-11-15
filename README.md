@@ -1,2 +1,2 @@
 # Emojis-JS-project
- To describe yourself in Emojis
+ A program that allows the user to describe themselves in Emojis. 
